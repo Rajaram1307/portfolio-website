@@ -1,0 +1,10 @@
+.banner {
+    background-image: url(/html/download1.jpeg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skill-padding {
+    padding: 80px;
+
+}
